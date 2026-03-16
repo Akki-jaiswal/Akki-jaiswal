@@ -6,7 +6,7 @@
 
 I am a Computer Science student and an open-source enthusiast with a strong focus on **Data Analytics, AI/ML, and Full-Stack Development**. I am passionate about building robust backend architectures, automating workflows, and contributing to tools that make data accessible and reproducible. 
 
-Currently, I am serving as a **Project Admin for GirlScript Summer of Code (GSSoC '25)**, where I manage contributors, review code, and ensure high-quality open-source collaboration.
+Recently, I have served as a **Project Admin for GirlScript Summer of Code (GSSoC '25)**, where I manage contributors, review code, and ensure high-quality open-source collaboration.
 
 ### 🚀 What I'm Up To
 * ☁️ Pursuing a **Microsoft Azure AI Certification** to deepen my expertise in enterprise-level machine learning and data infrastructure.
