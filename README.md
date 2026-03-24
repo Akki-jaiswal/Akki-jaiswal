@@ -22,9 +22,6 @@ Recently, I have served as a **Project Admin for GirlScript Summer of Code (GSSo
 * **DevOps & Tools:** Git/GitHub, GitHub Actions (CI/CD), Docker, Sphinx
 ---
 ### 🏆 Featured Projects & Contributions
-
-* **[ListenBrainz (MetaBrainz Foundation) - PR #812](https://github.com/metabrainz/listenbrainz-server/pull/3638)**
-  * Implemented testing suites for React components using mocked query providers to resolve global data-fetching errors.
 * **[AI Fraud Detection System](https://github.com/Akki-jaiswal/ai-fraud-detection-system)**
   * Built and deployed a full-stack application utilizing machine learning algorithms to identify and flag fraudulent data patterns.
 * **[FitLife Hub](https://github.com/Akki-jaiswal/FitLife-Hub)**
