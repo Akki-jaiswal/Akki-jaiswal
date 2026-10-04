@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akkii-jaiswal) 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:jaiswalakshay2709@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Akki-jaiswal&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Akki-jaiswal)
+[![Profile Views](https://komarev.com/ghpvc/?username=Akki-jaiswal&label=Profile%20views&color=0e75b4&style=flat)](https://github.com/Akki-jaiswal)
 
 I am a Computer Science student and an open-source enthusiast with a strong focus on **Data Analytics, AI/ML, and Full-Stack Development**. I am passionate about building robust backend architectures, automating workflows, and contributing to tools that make data accessible and reproducible. 
 
